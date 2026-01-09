@@ -1,0 +1,201 @@
+employee_id,name,department,role,gender,hire_date,salary,performance_score,is_active
+1001,Employee_1,Sales,Sales Manager,M,2025-01-17,144407,1,True
+1002,Employee_2,Sales,Account Executive,F,2025-06-16,73894,3,True
+1003,Employee_3,HR,HR BP,F,2021-08-11,67558,1,True
+1004,Employee_4,Marketing,Content Specialist,M,2025-04-02,63099,5,True
+1005,Employee_5,Product,Product Owner,F,2024-06-23,88256,3,True
+1006,Employee_6,Engineering,DevOps,M,2023-04-01,93556,2,True
+1007,Employee_7,Finance,Financial Analyst,M,2021-10-02,80681,2,True
+1008,Employee_8,Finance,Controller,F,2025-01-03,135207,3,True
+1009,Employee_9,Marketing,SEO Specialist,M,2023-08-09,62224,4,True
+1010,Employee_10,Finance,Financial Analyst,M,2025-02-16,94447,5,True
+1011,Employee_11,Engineering,Junior Dev,F,2024-11-07,72289,4,True
+1012,Employee_12,Sales,Account Executive,F,2024-10-21,104363,4,True
+1013,Employee_13,Sales,Sales Manager,M,2024-08-21,132610,3,True
+1014,Employee_14,HR,Recruiter,M,2024-08-09,51910,5,True
+1015,Employee_15,Finance,Financial Analyst,F,2022-09-19,83423,2,True
+1016,Employee_16,Product,Product Owner,M,2025-03-15,108819,2,False
+1017,Employee_17,Engineering,Junior Dev,F,2025-09-08,74609,5,True
+1018,Employee_18,Engineering,Senior Dev,F,2023-02-14,116747,3,True
+1019,Employee_19,Engineering,DevOps,M,2025-03-16,94172,3,True
+1020,Employee_20,Sales,SDR,F,2025-10-24,49687,1,True
+1021,Employee_21,HR,HR Manager,M,2024-06-25,97121,1,True
+1022,Employee_22,Product,Product Owner,F,2023-01-08,78000,5,False
+1023,Employee_23,Sales,Sales Manager,F,2025-04-14,136122,3,True
+1024,Employee_24,Finance,Accountant,F,2025-01-18,61765,4,True
+1025,Employee_25,Finance,Financial Analyst,M,2024-08-05,84194,5,False
+1026,Employee_26,Sales,Account Executive,F,2025-07-01,93922,5,True
+1027,Employee_27,Product,Product Manager,F,2022-12-18,120761,1,True
+1028,Employee_28,Marketing,SEO Specialist,F,2025-08-30,63143,4,False
+1029,Employee_29,Finance,Financial Analyst,M,2024-07-30,97725,4,True
+1030,Employee_30,Marketing,Content Specialist,F,2024-06-04,62676,2,True
+1031,Employee_31,Sales,Sales Manager,F,2024-10-06,111925,2,True
+1032,Employee_32,Finance,Controller,F,2023-09-30,121779,5,False
+1033,Employee_33,Marketing,Marketing Manager,F,2025-12-18,95345,1,True
+1034,Employee_34,HR,Recruiter,F,2025-09-07,56802,3,True
+1035,Employee_35,Engineering,Senior Dev,F,2023-03-07,98336,1,True
+1036,Employee_36,Finance,Financial Analyst,M,2021-04-24,89959,1,True
+1037,Employee_37,Sales,Account Executive,F,2024-06-21,77249,1,True
+1038,Employee_38,Engineering,DevOps,F,2020-12-15,101016,3,True
+1039,Employee_39,Product,Product Manager,M,2024-10-02,108132,4,True
+1040,Employee_40,HR,HR BP,M,2024-01-18,97990,1,False
+1041,Employee_41,Engineering,Junior Dev,M,2025-11-01,75448,3,True
+1042,Employee_42,Marketing,SEO Specialist,F,2022-05-28,83687,3,True
+1043,Employee_43,Sales,Sales Manager,M,2025-07-11,140522,2,True
+1044,Employee_44,Engineering,Junior Dev,F,2024-05-07,59455,3,True
+1045,Employee_45,Finance,Accountant,F,2020-07-24,63648,2,True
+1046,Employee_46,Product,Product Manager,F,2024-03-02,129706,1,True
+1047,Employee_47,Sales,Sales Manager,F,2025-08-01,111497,2,True
+1048,Employee_48,Marketing,Content Specialist,M,2020-04-20,66315,3,False
+1049,Employee_49,Marketing,SEO Specialist,F,2024-05-24,84732,3,True
+1050,Employee_50,HR,HR Manager,F,2022-10-31,107810,4,True
+1051,Employee_51,Finance,Controller,F,2025-09-15,150593,3,True
+1052,Employee_52,HR,Recruiter,F,2020-06-17,49206,2,True
+1053,Employee_53,Marketing,SEO Specialist,M,2025-06-23,64281,1,True
+1054,Employee_54,Sales,Account Executive,M,2023-01-31,108547,2,True
+1055,Employee_55,Product,Product Manager,M,2023-03-11,121548,1,True
+1056,Employee_56,HR,HR BP,M,2024-08-17,86636,2,True
+1057,Employee_57,Marketing,SEO Specialist,F,2025-11-03,73185,2,True
+1058,Employee_58,Finance,Financial Analyst,F,2023-06-03,82879,5,False
+1059,Employee_59,Engineering,Tech Lead,F,2020-02-11,137476,5,True
+1060,Employee_60,Marketing,Content Specialist,F,2024-12-19,47808,4,True
+1061,Employee_61,Sales,Account Executive,M,2024-04-06,118019,2,False
+1062,Employee_62,Sales,Sales Manager,M,2025-10-04,143978,4,True
+1063,Employee_63,HR,Recruiter,F,2025-12-06,55952,5,False
+1064,Employee_64,Engineering,DevOps,M,2024-10-26,110897,3,True
+1065,Employee_65,Engineering,DevOps,F,2022-12-22,131494,4,True
+1066,Employee_66,Sales,SDR,M,2025-12-18,50312,2,True
+1067,Employee_67,Sales,Sales Manager,F,2024-01-24,132220,3,True
+1068,Employee_68,Sales,SDR,M,2025-06-27,53276,1,True
+1069,Employee_69,Marketing,Content Specialist,F,2023-01-24,46117,1,True
+1070,Employee_70,Engineering,DevOps,F,2020-04-15,105593,3,True
+1071,Employee_71,HR,Recruiter,F,2024-02-04,62604,1,True
+1072,Employee_72,HR,Recruiter,M,2024-07-27,53621,3,False
+1073,Employee_73,Marketing,Content Specialist,M,2024-06-14,54593,2,True
+1074,Employee_74,Finance,Financial Analyst,M,2025-04-05,70886,5,True
+1075,Employee_75,Sales,Account Executive,M,2025-07-30,102904,2,True
+1076,Employee_76,Sales,SDR,F,2022-12-13,46620,5,True
+1077,Employee_77,HR,HR BP,F,2025-12-27,74802,4,True
+1078,Employee_78,Engineering,Tech Lead,F,2025-08-24,175377,3,False
+1079,Employee_79,Finance,Financial Analyst,F,2024-08-13,79525,2,True
+1080,Employee_80,Marketing,Content Specialist,F,2023-01-03,64206,4,False
+1081,Employee_81,Marketing,Marketing Manager,M,2025-09-27,101198,2,True
+1082,Employee_82,Finance,Accountant,F,2024-01-05,66083,5,False
+1083,Employee_83,HR,Recruiter,M,2024-01-11,59366,5,True
+1084,Employee_84,HR,Recruiter,F,2024-09-30,57143,4,True
+1085,Employee_85,Product,Product Manager,M,2024-12-12,111281,2,True
+1086,Employee_86,Marketing,Marketing Manager,F,2024-03-19,111555,3,True
+1087,Employee_87,Finance,Financial Analyst,M,2025-10-15,72017,4,True
+1088,Employee_88,Marketing,Content Specialist,F,2025-02-11,49737,3,True
+1089,Employee_89,Sales,Sales Manager,M,2025-09-21,133036,3,True
+1090,Employee_90,Marketing,SEO Specialist,M,2025-07-31,88887,1,True
+1091,Employee_91,Marketing,SEO Specialist,M,2024-07-06,61659,5,True
+1092,Employee_92,Finance,Accountant,F,2023-02-13,71852,5,True
+1093,Employee_93,Engineering,Junior Dev,F,2025-05-03,61431,2,True
+1094,Employee_94,Sales,Account Executive,M,2024-06-23,110526,1,False
+1095,Employee_95,Engineering,Tech Lead,M,2022-07-05,170534,4,True
+1096,Employee_96,Marketing,Content Specialist,M,2025-04-03,60177,3,True
+1097,Employee_97,Engineering,DevOps,F,2024-01-16,117479,4,True
+1098,Employee_98,Engineering,Junior Dev,M,2020-11-16,73627,5,True
+1099,Employee_99,Marketing,Marketing Manager,M,2020-01-21,95130,2,True
+1100,Employee_100,Finance,Financial Analyst,F,2025-11-12,68858,1,False
+1101,Employee_101,Sales,Sales Manager,F,2023-11-27,118801,4,True
+1102,Employee_102,HR,HR BP,F,2021-10-29,69516,2,True
+1103,Employee_103,Engineering,Tech Lead,M,2025-05-29,177636,3,True
+1104,Employee_104,Product,Product Manager,F,2025-09-08,99536,4,True
+1105,Employee_105,Product,Product Owner,F,2021-05-24,98967,3,True
+1106,Employee_106,Product,Product Owner,F,2025-08-12,113182,2,True
+1107,Employee_107,Product,Product Manager,M,2024-06-30,116079,2,True
+1108,Employee_108,Sales,Sales Manager,F,2025-08-29,108765,3,True
+1109,Employee_109,Marketing,Content Specialist,F,2024-04-20,50951,5,True
+1110,Employee_110,HR,Recruiter,M,2026-01-05,51008,5,False
+1111,Employee_111,Product,Product Owner,F,2020-03-17,100088,2,True
+1112,Employee_112,Sales,Sales Manager,M,2025-09-25,143496,4,True
+1113,Employee_113,Product,Product Owner,M,2025-10-03,86203,1,True
+1114,Employee_114,Marketing,Marketing Manager,F,2022-12-22,105463,5,True
+1115,Employee_115,Marketing,Content Specialist,F,2023-02-22,53880,3,True
+1116,Employee_116,Finance,Financial Analyst,F,2025-01-28,85273,2,True
+1117,Employee_117,Marketing,SEO Specialist,F,2025-10-16,82752,4,True
+1118,Employee_118,Engineering,Senior Dev,M,2025-02-05,102426,2,True
+1119,Employee_119,HR,HR BP,M,2024-02-08,78999,5,True
+1120,Employee_120,Product,Product Manager,F,2022-07-29,115645,4,True
+1121,Employee_121,Sales,SDR,M,2022-02-20,51022,2,True
+1122,Employee_122,Finance,Accountant,F,2025-03-21,75984,2,True
+1123,Employee_123,HR,HR Manager,F,2020-05-13,97365,5,True
+1124,Employee_124,Finance,Controller,M,2025-08-17,153617,3,True
+1125,Employee_125,Product,Product Owner,M,2025-03-31,81067,4,True
+1126,Employee_126,HR,HR Manager,M,2020-11-05,123611,2,True
+1127,Employee_127,Marketing,Marketing Manager,F,2024-05-05,102074,3,False
+1128,Employee_128,Marketing,SEO Specialist,F,2023-12-01,70595,3,True
+1129,Employee_129,Sales,Sales Manager,F,2024-01-02,148057,1,True
+1130,Employee_130,Engineering,Senior Dev,F,2024-01-05,118470,3,True
+1131,Employee_131,Product,Product Manager,F,2023-09-17,117137,1,False
+1132,Employee_132,Product,Product Manager,M,2025-09-30,105934,3,True
+1133,Employee_133,Marketing,Content Specialist,M,2025-09-23,58701,1,False
+1134,Employee_134,Sales,SDR,M,2020-05-20,59424,1,True
+1135,Employee_135,Finance,Accountant,M,2026-01-01,60017,4,True
+1136,Employee_136,Sales,SDR,M,2024-01-06,54706,5,False
+1137,Employee_137,Product,Product Owner,F,2025-07-15,93382,4,True
+1138,Employee_138,HR,HR BP,M,2025-06-18,76101,4,True
+1139,Employee_139,HR,HR BP,F,2024-02-06,83038,1,True
+1140,Employee_140,Marketing,SEO Specialist,M,2025-07-16,72651,5,True
+1141,Employee_141,Sales,SDR,F,2025-03-08,53599,2,True
+1142,Employee_142,Product,Product Manager,M,2025-03-11,136903,4,True
+1143,Employee_143,Sales,SDR,M,2024-06-28,45986,1,False
+1144,Employee_144,Engineering,Junior Dev,M,2025-08-20,66496,2,True
+1145,Employee_145,Finance,Controller,F,2025-03-11,138245,5,False
+1146,Employee_146,Sales,Sales Manager,F,2025-02-11,146659,5,True
+1147,Employee_147,Engineering,Tech Lead,M,2023-01-29,175968,3,True
+1148,Employee_148,Marketing,Marketing Manager,M,2024-11-15,100559,1,False
+1149,Employee_149,Sales,Account Executive,M,2024-11-17,117673,1,False
+1150,Employee_150,Product,Product Owner,F,2023-08-15,112517,4,True
+1151,Employee_151,Engineering,Tech Lead,M,2020-05-27,188622,1,True
+1152,Employee_152,Sales,Account Executive,M,2023-12-29,102079,3,True
+1153,Employee_153,HR,HR Manager,F,2024-04-24,107626,3,True
+1154,Employee_154,Engineering,DevOps,F,2025-05-10,131139,1,True
+1155,Employee_155,HR,HR Manager,M,2024-12-22,121333,3,True
+1156,Employee_156,HR,HR Manager,M,2023-05-07,90869,4,False
+1157,Employee_157,Finance,Controller,M,2023-03-06,147616,1,True
+1158,Employee_158,Product,Product Owner,F,2024-03-10,109208,1,False
+1159,Employee_159,Marketing,Content Specialist,F,2020-12-03,66944,5,True
+1160,Employee_160,Sales,Account Executive,M,2024-10-24,109699,1,False
+1161,Employee_161,Finance,Controller,M,2023-05-29,118571,5,False
+1162,Employee_162,Engineering,DevOps,F,2025-06-25,92844,4,False
+1163,Employee_163,HR,HR BP,M,2024-03-21,79616,5,True
+1164,Employee_164,Marketing,Content Specialist,M,2023-10-17,63511,1,False
+1165,Employee_165,HR,HR Manager,M,2022-12-07,97675,3,True
+1166,Employee_166,Engineering,DevOps,M,2023-07-23,112888,2,False
+1167,Employee_167,Finance,Financial Analyst,M,2025-03-01,83089,4,True
+1168,Employee_168,Finance,Controller,M,2025-10-29,147609,5,True
+1169,Employee_169,Finance,Controller,F,2025-08-29,125322,5,True
+1170,Employee_170,Marketing,SEO Specialist,M,2025-08-10,76664,1,False
+1171,Employee_171,Engineering,Junior Dev,M,2026-01-03,82139,4,True
+1172,Employee_172,Product,Product Manager,F,2020-11-22,113753,1,True
+1173,Employee_173,Finance,Financial Analyst,F,2024-06-12,93948,3,True
+1174,Employee_174,Sales,Sales Manager,M,2024-02-18,157214,1,True
+1175,Employee_175,Product,Product Manager,F,2024-05-25,115177,3,True
+1176,Employee_176,Product,Product Owner,M,2024-11-29,90155,4,True
+1177,Employee_177,Finance,Financial Analyst,M,2025-02-25,73352,3,True
+1178,Employee_178,Sales,Account Executive,F,2021-05-29,110828,3,True
+1179,Employee_179,Engineering,DevOps,F,2025-04-21,113204,2,True
+1180,Employee_180,Engineering,Tech Lead,F,2023-11-28,166389,5,True
+1181,Employee_181,Engineering,Junior Dev,F,2022-03-09,65935,4,False
+1182,Employee_182,Marketing,Content Specialist,F,2020-11-12,51977,3,False
+1183,Employee_183,HR,HR Manager,M,2023-05-04,96110,5,True
+1184,Employee_184,Marketing,SEO Specialist,M,2025-09-08,62001,2,True
+1185,Employee_185,Marketing,Marketing Manager,F,2024-01-11,76980,1,True
+1186,Employee_186,Product,Product Owner,M,2025-10-21,117801,5,True
+1187,Employee_187,Product,Product Owner,F,2025-08-31,112329,1,True
+1188,Employee_188,Marketing,SEO Specialist,M,2025-10-11,73617,1,True
+1189,Employee_189,Finance,Controller,F,2025-03-22,148744,4,True
+1190,Employee_190,Marketing,Marketing Manager,F,2025-01-14,94530,5,True
+1191,Employee_191,HR,Recruiter,M,2022-06-08,70526,3,True
+1192,Employee_192,Engineering,Tech Lead,M,2024-09-24,155731,4,True
+1193,Employee_193,Marketing,Content Specialist,M,2025-01-26,56849,2,True
+1194,Employee_194,Sales,Account Executive,M,2025-12-03,73908,3,True
+1195,Employee_195,Marketing,Content Specialist,M,2025-01-16,58023,5,False
+1196,Employee_196,Engineering,Senior Dev,F,2025-11-18,107233,3,True
+1197,Employee_197,Product,Product Manager,F,2025-11-19,101400,2,False
+1198,Employee_198,HR,Recruiter,M,2025-12-15,63156,5,True
+1199,Employee_199,Product,Product Owner,F,2020-08-09,102161,4,True
+1200,Employee_200,Engineering,Senior Dev,M,2024-10-15,116727,4,True

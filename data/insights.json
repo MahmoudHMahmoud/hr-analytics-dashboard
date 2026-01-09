@@ -1,0 +1,42 @@
+{
+  "department_attrition": {
+    "Engineering": 11.8,
+    "Finance": 22.6,
+    "HR": 17.2,
+    "Marketing": 25.0,
+    "Product": 17.2,
+    "Sales": 16.2
+  },
+  "avg_salary_by_role": {
+    "Account Executive": 100278.0,
+    "Accountant": 66558.0,
+    "Content Specialist": 57386.0,
+    "Controller": 138730.0,
+    "DevOps": 109480.0,
+    "Financial Analyst": 82684.0,
+    "HR BP": 79362.0,
+    "HR Manager": 104391.0,
+    "Junior Dev": 70159.0,
+    "Marketing Manager": 98093.0,
+    "Product Manager": 115214.0,
+    "Product Owner": 99476.0,
+    "Recruiter": 57390.0,
+    "SDR": 51626.0,
+    "SEO Specialist": 72863.0,
+    "Sales Manager": 133954.0,
+    "Senior Dev": 109990.0,
+    "Tech Lead": 168467.0
+  },
+  "avg_absence_days": {
+    "Engineering": 3.4,
+    "Finance": 3.1,
+    "HR": 2.4,
+    "Marketing": 3.0,
+    "Product": 3.1,
+    "Sales": 3.0
+  },
+  "gender_pay_gap_global": {
+    "F": 93911.0,
+    "M": 95296.0
+  }
+}
